@@ -8,6 +8,7 @@ This is a to-do list where you can enter your pending tasks and  remove them fro
 
 ![Screenshot 2023-09-03 185003](https://github.com/AkshayV1002/To-Do-List/assets/143541147/b5723be3-1018-4e28-bdb8-8a38acf728e6)
 
+Remove the tasks after completing them.
 ![Screenshot 2023-09-03 185025](https://github.com/AkshayV1002/To-Do-List/assets/143541147/ba16bab4-ce79-41cd-8769-3bb946c29e33)
 
 ![Screenshot 2023-09-03 185042](https://github.com/AkshayV1002/To-Do-List/assets/143541147/c41cc31e-dffa-405c-9e54-21e04f5048f2)
